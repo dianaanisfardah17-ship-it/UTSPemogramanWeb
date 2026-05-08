@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+    margin: 40px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+
+a{
+    text-decoration: none;
+    padding: 5px 10px;
+    background: rgb(0, 38, 255);
+    color: white;
+    border-radius: 5px;
+}
+
+.hapus{
+    background: red;
+}
