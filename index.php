@@ -46,7 +46,7 @@ $data = mysqli_query($conn, "SELECT * FROM mahasiswa");
 
             <a class="hapus"
                href="hapus.php?id=<?= $row['id']; ?>"
-               onclick="return confirm('Yakin hapus data?')">
+               onclick="return confirm('Yakin Hapus Data?')">
                Hapus
             </a>
         </td>
