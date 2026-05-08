@@ -50,11 +50,10 @@ crud-mahasiswa/
 ├── style.css 
 ├── crud_mahasiswa.sql 
 └── README.md
+```
 ---
 ## Screenshot Website
-
 ### Halaman Utama
 ![Halaman Utama](ss_web/home.png)
-
 ### Halaman Form
 ![Halaman Form](ss_web/form.png)
