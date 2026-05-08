@@ -19,7 +19,14 @@ Aplikasi memungkinkan pengguna untuk:
 - Penyimpanan data menggunakan MySQL 
 - Tampilan sederhana menggunakan HTML dan CSS native 
 --- 
-## Teknologi yang Digunakan - HTML - CSS - JavaScript - PHP Native - MySQL - Laragon --- 
+## Teknologi yang Digunakan 
+- HTML 
+- CSS 
+- JavaScript 
+- PHP Native 
+- MySQL 
+- Laragon 
+--- 
 ## Struktur Data Mahasiswa 
 Data yang dikelola pada aplikasi ini meliputi: 
 | Field | Keterangan | 
@@ -45,6 +52,9 @@ crud-mahasiswa/
 └── README.md
 ---
 ## Screenshot Website
-![home](ss_web/home.png)
-![form](ss_web/form.png)
 
+### Halaman Utama
+![Halaman Utama](ss_web/home.png)
+
+### Halaman Form
+![Halaman Form](ss_web/form.png)
