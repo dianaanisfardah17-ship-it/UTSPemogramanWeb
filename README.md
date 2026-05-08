@@ -44,7 +44,7 @@ crud-mahasiswa/
 └── README.md
 ---
 ## Screenshot Website
-![tampilan awal](screenshotweb/1.png)
-![isidata](screenshotweb/2.png)
+![tampilanawal](ss_web/1.png)
+![isidata](ss_web/2.png)
 
 
