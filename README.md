@@ -34,6 +34,7 @@ Data yang dikelola pada aplikasi ini meliputi:
 crud-mahasiswa/ 
 │ 
 ├── uploads/ 
+├── ss_web/
 ├── koneksi.php 
 ├── index.php 
 ├── form.php 
@@ -44,7 +45,7 @@ crud-mahasiswa/
 └── README.md
 ---
 ## Screenshot Website
-![tampilanawal](ss_web/1.png)
-![isidata](ss_web/2.png)
+![tampilanawal](ss_web/tampilanawal.png)
+![isidata](ss_web/isidata.png)
 
 
