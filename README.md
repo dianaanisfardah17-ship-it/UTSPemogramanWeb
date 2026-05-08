@@ -43,7 +43,7 @@ crud-mahasiswa/
 ├── crud_mahasiswa.sql 
 └── README.md
 ---
-## Screenshot 
+## Screenshot Website
 ![tampilan awal](screenshotweb/1.png)
 ![isidata](screenshotweb/2.png)
 
